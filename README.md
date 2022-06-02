@@ -15,6 +15,8 @@ The main goal of this project is to recommend the 5 movies based on user interes
 ## Demo
 Link: [https://olympic-analysis-new.herokuapp.com/](https://olympic-analysis-new.herokuapp.com/)
 
+![movie-recommedation](https://user-images.githubusercontent.com/76767335/171601030-fca3739b-99b9-4255-aed1-88362eee3c79.gif)
+
 
 ## Problem Statement
 Movie recommendation system is one of the top research areas, currently. Due to the impact of high internet speeds, multimedia has become one of the best entertainments. bulid a movie recommendation engine that recommend five movies based on user movie selected movie.
