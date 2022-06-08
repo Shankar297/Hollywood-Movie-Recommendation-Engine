@@ -13,7 +13,7 @@ The main goal of this project is to recommend the 5 movies based on user interes
   * [Contributors](#contributors)
 
 ## Demo
-Link: [https://olympic-analysis-new.herokuapp.com/](https://olympic-analysis-new.herokuapp.com/)
+Link: [https://hollywood-movie-recommendor.herokuapp.com/](https://hollywood-movie-recommendor.herokuapp.com/)
 
 ![movie-recommedation](https://user-images.githubusercontent.com/76767335/171601030-fca3739b-99b9-4255-aed1-88362eee3c79.gif)
 
